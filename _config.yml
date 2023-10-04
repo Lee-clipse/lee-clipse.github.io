@@ -36,7 +36,7 @@ comments:
   # 뭔지 모르겠지만 disqus
   provider: "disqus"
   disqus:
-    shortname: "leeclipse-github-io"
+    shortname: "lee-clipse"
 reCaptcha:
   siteKey:
   secret:
