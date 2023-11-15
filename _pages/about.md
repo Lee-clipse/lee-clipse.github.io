@@ -8,7 +8,7 @@ classes: wide
 
 <div style="text-align: center; margin: 50px">
   <!-- 자기 사진 -->
-  <img src="/assets/img/profile.jpeg" class="user-image" style="width: 200px; height:200px" alt="My Profile Photo">
+  <img src="/assets/img/profile.jpeg" class="user-image" style="width: 200px; height:220px" alt="My Profile Photo">
 </div>
 
 <div id="skills">
@@ -16,7 +16,7 @@ classes: wide
       <div class="col-md-4 col-xs-12 col-sm-6 col-lg-6">
         <div class="about-text-left">
             <h2>JINJAE LEE</h2>
-            <h3>이진재</h3>
+            <h3>이진재</h3><br>
             <p>건강함을 추구하는 웹 개발자 입니다.</p>
             <p>물 흐르듯 살며 관심사가 생기면 몰입하는 타입입니다. </p>
             <p>탁 트인 자연, 아늑한 분위기, 드럼 연주와 강아지를 좋아합니다.</p>
