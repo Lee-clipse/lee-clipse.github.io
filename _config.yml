@@ -16,9 +16,9 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "ko"
-title: "블로그 간판"
+title: "lee-clipse의 블로그"
 title_separator: "-"
-subtitle: "블로그 라벨"
+subtitle: "물 흐르듯 살아가는 중 느낀 것들 적기"
 name: "이진재"
 description: "무슨 설명?"
 url: "https://lee-clipse.github.io"
@@ -33,7 +33,6 @@ breadcrumbs: true
 
 words_per_minute: 200
 comments:
-  # 뭔지 모르겠지만 disqus
   provider: "disqus"
   disqus:
     shortname: "lee-clipse"
@@ -88,13 +87,10 @@ analytics:
 author:
   name: "이진재"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "한 줄 소개"
+  bio: "상쾌한 휴식에서 맑은 코드가 나온다"
   location: "부산"
   email: "jamjam1208@naver.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "jamjam1208@naver.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Lee-clipse"
