@@ -2,7 +2,7 @@
 layout: single
 comments: false
 permalink: /about/
-title: "이진재"
+title: ""
 classes: wide
 ---
 

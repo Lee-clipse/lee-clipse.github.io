@@ -30,6 +30,12 @@ body {
   flex-direction: column;
 }
 
+.initial-content {
+  justify-content: center;
+
+  align-items: center;
+}
+
 .initial-content,
 .search-content {
   flex: 1 0 auto;
@@ -67,7 +73,7 @@ body {
     }
 
     .period-mark {
-      color: #073614;
+      color: #0d592c;
     }
   }
 }
