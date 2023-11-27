@@ -98,6 +98,11 @@ body {
 }
 
 .page__content {
+  h1 {
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -135,9 +140,15 @@ body {
     font-size: 1em;
   }
 
+  ul {
+    margin-block-start: 0.4em;
+    margin-block-end: 0.4em;
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
+    line-height: 1.6em;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
