@@ -37,8 +37,8 @@ Node.js 기반의 1년 차 서버 백엔드 개발자입니다. <br/> API 명세
 
 <h3>Hyperlink<span class="period-mark">.</span></h3>
 
-- 배포 사이트(모바일 대상): https://busan-tf.n-e.kr/
-- Github: https://github.com/Lee-clipse/tf-15th-website
+- 배포 사이트(모바일 대상): [https://busan-tf.n-e.kr/](https://busan-tf.n-e.kr/)
+- Github: [https://github.com/Lee-clipse/tf-15th-website](https://github.com/Lee-clipse/tf-15th-website)
 
 <h2>Fitory<span class="period-mark">.</span></h2>
 
@@ -62,8 +62,8 @@ Node.js 기반의 1년 차 서버 백엔드 개발자입니다. <br/> API 명세
 
 <h3>Hyperlink<span class="period-mark">.</span></h3>
 
-- 배포 사이트(모바일 대상): https://fitory.ga/ (서비스 종료)
-- Github: https://github.com/boostcampwm-2022/Web04-Fitory
+- 배포 사이트(모바일 대상): [https://fitory.ga/](https://fitory.ga/) (서비스 종료)
+- Github: [https://github.com/boostcampwm-2022/Web04-Fitory](https://github.com/boostcampwm-2022/Web04-Fitory)
 
 <h1>Education<span class="period-mark">.</span></h1>
 
@@ -125,6 +125,8 @@ Node.js 기반의 1년 차 서버 백엔드 개발자입니다. <br/> API 명세
 
 <h1>Contact<span class="period-mark">.</span></h1>
 
+<br/>
+
 - 이메일: jamjam1208@naver.com
-- 블로그: https://lee-clipse.github.io/
-- 깃허브: https://github.com/lee-clipse
+- 블로그: [https://lee-clipse.github.io/](https://lee-clipse.github.io/)
+- 깃허브: [https://github.com/lee-clipse](https://github.com/lee-clipse)
