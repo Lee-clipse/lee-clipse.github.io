@@ -125,8 +125,6 @@ Node.js 기반의 1년 차 서버 백엔드 개발자입니다. <br/> API 명세
 
 <h1>Contact<span class="period-mark">.</span></h1>
 
-<br/>
-
 - 이메일: jamjam1208@naver.com
 - 블로그: [https://lee-clipse.github.io/](https://lee-clipse.github.io/)
 - 깃허브: [https://github.com/lee-clipse](https://github.com/lee-clipse)
