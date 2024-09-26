@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "소개"
+  - title: "이력서"
     url: /about/
+  - title: "Resume"
+    url: /about-en/
   - title: "포스트"
     url: /posts/
 

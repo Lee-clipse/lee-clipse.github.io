@@ -1,7 +1,7 @@
 ---
 layout: single
 comments: false
-permalink: /about/
+permalink: /resume/
 title: "이진재"
 classes: wide
 ---
