@@ -53,9 +53,9 @@ Node.js 기반의 2년 차 서버 백엔드 개발자입니다. <br/> 현 기획
 <h3>Description<span class="period-mark">.</span></h3>
 
 기존의 중앙화된 DB에서 벗어나고자, Web3 규격에 맞는 DID 프로토콜을 직접 구현한 서비스입니다.
-</br> DID 구현을 위해 Near Smart Contract를 활용했으며, Snark.js 라이브러리로 ZKP Circuit을 구현했습니다.</br>
+<br/> DID 구현을 위해 Near Smart Contract를 활용했으며, Snark.js 라이브러리로 ZKP Circuit을 구현했습니다.<br/>
 부산대학교 학생을 대상으로 자체 구현 Chrome Extension Wallet을 통해 신원을 증명합니다.
-</br> FE, BE가 블록체인 서버와 통신하여 DB에 개인정보를 저장하지 않고, </br> 부산대학교 학생 신원 인증을 수행하는 프로젝트입니다.
+<br/> FE, BE가 블록체인 서버와 통신하여 DB에 개인정보를 저장하지 않고, <br/> 부산대학교 학생 신원 인증을 수행하는 프로젝트입니다.
 
 <h3>What did I do<span class="period-mark">.</span></h3>
 
