@@ -1,9 +1,9 @@
----
 layout: single
 comments: false
 permalink: /about/
 title: "이진재"
 classes: wide
+
 ---
 
 > 백엔드 엔지니어
@@ -14,7 +14,7 @@ Node.js 기반의 2년 차 서버 백엔드 개발자입니다. <br/> 현 기획
 
 <h1>Project<span class="period-mark">.</span></h1>
 
-<h2>청건부산 2nd 웹사이트<span class="period-mark">.</span></h2>
+<h2>01) 청건부산 2nd 웹사이트<span class="period-mark">.</span></h2>
 
 > Together Festival 16주년, 청건부산 2nd 행사를 위한 모바일 전용 웹사이트
 
@@ -42,7 +42,32 @@ Node.js 기반의 2년 차 서버 백엔드 개발자입니다. <br/> 현 기획
 - 배포 사이트(모바일 대상): [https://busan-tf.n-e.kr/](https://busan-tf.n-e.kr/)
 - Github: [https://github.com/Lee-clipse/tf-16th-website](https://github.com/Lee-clipse/tf-16th-website)
 
-<h2>Ontact Korea 서비스<span class="period-mark">.</span></h2>
+<h2>02) DID, ZKP를 활용한 신원 증명 시스템<span class="period-mark">.</span></h2>
+
+> 탈중앙 식별자 및 영지식 증명 기술로 구현한 Web3 신원 증명 시스템
+
+- 부산대학교 23년도 졸업과제
+
+- 2024.03 ~ 2024.06
+
+<h3>Description<span class="period-mark">.</span></h3>
+
+기존의 중앙화된 DB에서 벗어나고자, Web3 규격에 맞는 DID 프로토콜을 직접 구현한 서비스입니다.
+</br> DID 구현을 위해 Near Smart Contract를 활용했으며, Snark.js 라이브러리로 ZKP Circuit을 구현했습니다.</br>
+부산대학교 학생을 대상으로 자체 구현 Chrome Extension Wallet을 통해 신원을 증명합니다.
+</br> FE, BE가 블록체인 서버와 통신하여 DB에 개인정보를 저장하지 않고, </br> 부산대학교 학생 신원 인증을 수행하는 프로젝트입니다.
+
+<h3>What did I do<span class="period-mark">.</span></h3>
+
+- 인프라 설계 및 DB 관리
+- Holder, Issuer, Verifier, Servier API 서버 구현
+- Snark.js 라이브러리를 통해 Server와 블록체인 네트워크 통신 부분 구현
+
+<h3>Hyperlink<span class="period-mark">.</span></h3>
+
+- Github: [https://github.com/2024-Circular-Reference/identity-verify-WAS](https://github.com/2024-Circular-Reference/identity-verify-WAS)
+
+<h2>03) Ontact Korea 서비스<span class="period-mark">.</span></h2>
 
 > 외국인들을 대상으로 한 한국 물품 해외 배송 대행 서비스
 
@@ -74,7 +99,7 @@ Node.js 기반의 2년 차 서버 백엔드 개발자입니다. <br/> 현 기획
 
 - 실제 서비스: [https://ontactkorea.net/](https://ontactkorea.net/)
 
-<h2>청건부산 1st 웹사이트<span class="period-mark">.</span></h2>
+<h2>04) 청건부산 1st 웹사이트<span class="period-mark">.</span></h2>
 
 > Together Festival 15주년, 청건부산 1st 행사를 위한 모바일 전용 웹사이트
 
@@ -103,7 +128,7 @@ DAU 1,700명의 부산 행사 안내 서비스입니다. <br/> 행사 기획자 
 - 배포 사이트(모바일 대상): [https://busan-tf.n-e.kr/](https://busan-tf.n-e.kr/) (서비스 종료)
 - Github: [https://github.com/Lee-clipse/tf-15th-website](https://github.com/Lee-clipse/tf-15th-website)
 
-<h2>Fitory<span class="period-mark">.</span></h2>
+<h2>05) Fitory<span class="period-mark">.</span></h2>
 
 > 비슷한 체급에서의 내 3대 운동 중량을 랭킹과 티어로 보여주는, SNS 기능을 곁들인 운동 기록 PWA 서비스
 
