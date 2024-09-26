@@ -1,9 +1,9 @@
+---
 layout: single
 comments: false
 permalink: /about/
 title: "이진재"
 classes: wide
-
 ---
 
 > 백엔드 엔지니어
