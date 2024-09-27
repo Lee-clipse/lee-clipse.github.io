@@ -1,16 +1,12 @@
 ---
 layout: single
 comments: false
-permalink: /resume-en/
+permalink: /portfolio/
 title: "Lee Jinjae"
 classes: wide
 ---
 
 > Backend Engineer
-
-<h1>About Me<span class="period-mark">.</span></h1>
-
-Backend Server Developer with 2 Years of Experience in Node.js <br/> I prioritize writing appropriate API specifications, validating input data, and designing pipes for pre- and post-processing, <br/>in line with current project requirements. <br/> I focus on using ORM to separate frequently reused server logic for better modularity and maintainability. <br/> I am particularly interested in optimizing costly queries within the existing database structure. <br/> I consider server logging, which serves as the foundation for issue response, to be of utmost importance. <br/> Through numerous collaborations with committees and planners, as well as experiencing both successes and failures, <br/>I have honed a disciplined and professional approach as a healthy developer.
 
 <h1>Project<span class="period-mark">.</span></h1>
 
@@ -152,31 +148,6 @@ Fitory is a workout tracking and social networking service designed to motivate 
 
 - Live site (mobile only): [https://fitory.ga/](https://fitory.ga/) (service ended)
 - Github: [https://github.com/boostcampwm-2022/Web04-Fitory](https://github.com/boostcampwm-2022/Web04-Fitory)
-
-<h1>Education<span class="period-mark">.</span></h1>
-
-<h3>Naver Connect Foundation Boostcamp Web & Mobile 7th Membership<span class="period-mark">.</span></h3>
-
-2022.08 ~ 2022.12
-
-- Participated to gain experience in web service development and team projects.
-- Built and deployed client, server, and database systems based on weekly missions.
-- Developed and operated an actual service through a 6-week team project, collaborating with multiple developers.
-
-<h3>Naver Connect Foundation Boostcamp Web & Mobile 7th Challenge<span class="period-mark">.</span></h3>
-
-2022.07 ~ 2022.08
-
-- Participated to start learning web development and network with other developers.
-- Studied computer science concepts and implemented them using JavaScript.
-- Gained experience detecting "bad smells" in code through multiple peer code reviews and feedback from professional developers.
-
-<h3>Pusan National University, Department of Computer Science & Engineering<span class="period-mark">.</span></h3>
-
-2018.03 ~ 2024.08
-
-- Excelled in courses like algorithms, databases, and data communication due to a strong interest in these subjects.
-- Gained a security-focused perspective on development through participation in a web infrastructure study group in an information security club.
 
 <h1>Skill<span class="period-mark">.</span></h1>
 

@@ -2,8 +2,8 @@
 main:
   - title: "이력서"
     url: /resume/
-  - title: "Resume"
-    url: /resume-en/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "포스트"
     url: /posts/
 
