@@ -153,6 +153,20 @@ DAU 1,700명의 부산 행사 안내 서비스입니다. <br/> 행사 기획자 
 - 배포 사이트(모바일 대상): [https://fitory.ga/](https://fitory.ga/) (서비스 종료)
 - Github: [https://github.com/boostcampwm-2022/Web04-Fitory](https://github.com/boostcampwm-2022/Web04-Fitory)
 
+<h1>Awards<span class="period-mark">.</span></h1>
+
+<h3>ETH Global Sanfrancisco 2024<span class="period-mark">.</span></h3>
+
+| 이더리움 재단 개최 Web3 해커톤: 2024.10.18 ~ 2024.10.20
+
+- 프로젝트: [Baldr](https://ethglobal.com/showcase/baldr-wyv9f)
+
+- 설명: 게임 내 현금 거래에서 발생하는 각종 사기를 예방하기 위한 AI, Web3 기반 오픈 소스 에스크로 플랫폼
+
+- 수상
+  - Sign Protocol - Best Consumer Application
+  - SKALE Network - Best Use of Zero Gas Fees 3rd place
+
 <h1>Education<span class="period-mark">.</span></h1>
 
 <h3>네이버 커넥트재단 부스트캠프 웹・모바일 7기 멤버십<span class="period-mark">.</span></h3>
